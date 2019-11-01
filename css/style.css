@@ -1,0 +1,80 @@
+body
+{
+    background-color: grey;
+}
+#login
+{
+    width:70%;
+    margin:auto;
+}
+
+#in
+{
+    width:75%;
+    margin:auto;
+}
+    
+wrapper
+{
+                width:70%;
+                margin:auto;
+}
+
+table, td, th
+            {    
+                border: 1px solid #ddd;
+                text-align: left;
+            }
+
+table
+    {
+                border-collapse: collapse;
+                width: 40%;
+                margin: auto;
+            }
+
+th, td
+            {
+                padding: 15px;
+            }
+
+            
+h2
+{
+                text-align: center;
+}
+
+#msg
+{
+                width:40%;
+                margin:auto;
+}
+#links
+{
+                width:50%;
+                margin: auto;
+}
+table
+{
+                border-collapse: collapse;
+                width: 50%;
+                margin: auto;
+}
+
+th, td
+{
+                text-align: left;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th
+{
+                background-color: #4CAF50;
+                color: white;
+}
+
+h2, h3
+{
+                text-align: center;
+}
